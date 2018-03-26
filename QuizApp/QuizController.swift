@@ -2,8 +2,8 @@
 //  QuizController.swift
 //  QuizApp
 //
-//  Created by Samuel Yanez on 9/9/17.
-//  Copyright © 2017 Treehouse. All rights reserved.
+//  Created by NLockwood 03/25/18.
+//  Copyright © 2018 NLockwood. All rights reserved.
 //
 
 import Foundation
