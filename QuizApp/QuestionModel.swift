@@ -2,8 +2,8 @@
 //  QuestionModel.swift
 //  QuizApp
 //
-//  Created by Samuel Yanez on 10/12/17.
-//  Copyright © 2017 Samuel Yanez. All rights reserved.
+//  Created by Nate Lockwood 3/25/18.
+//  Copyright © 2018 Nate Lockwood. All rights reserved.
 //
 
 import GameKit
